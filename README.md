@@ -5,4 +5,7 @@ assignment 2
 This task was about creating table a NEW PLUGGABLE DATABASE 
 By using FirstTwoLettersOfFirstName_pdb_Student
 with username inside PDB FirstName_plsqlauca_StudentID
-
+# TASK 2 
+This one was to create table and be able to drop it as shown in screenshots
+# TASK 3 
+was to go through the ORACLE ENTERPRISE MANAGER 
